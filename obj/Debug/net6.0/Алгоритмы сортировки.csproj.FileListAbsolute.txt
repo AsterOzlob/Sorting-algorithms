@@ -1,0 +1,14 @@
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Алгоритмы сортировки\obj\Debug\net6.0\Алгоритмы сортировки.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Алгоритмы сортировки\obj\Debug\net6.0\Алгоритмы сортировки.AssemblyInfoInputs.cache
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Алгоритмы сортировки\obj\Debug\net6.0\Алгоритмы сортировки.AssemblyInfo.cs
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Алгоритмы сортировки\obj\Debug\net6.0\Алгоритмы сортировки.csproj.CoreCompileInputs.cache
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Алгоритмы сортировки\bin\Debug\net6.0\Алгоритмы сортировки.exe
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Алгоритмы сортировки\bin\Debug\net6.0\Алгоритмы сортировки.deps.json
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Алгоритмы сортировки\bin\Debug\net6.0\Алгоритмы сортировки.runtimeconfig.json
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Алгоритмы сортировки\bin\Debug\net6.0\Алгоритмы сортировки.dll
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Алгоритмы сортировки\bin\Debug\net6.0\Алгоритмы сортировки.pdb
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Алгоритмы сортировки\obj\Debug\net6.0\Алгоритмы сортировки.dll
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Алгоритмы сортировки\obj\Debug\net6.0\refint\Алгоритмы сортировки.dll
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Алгоритмы сортировки\obj\Debug\net6.0\Алгоритмы сортировки.pdb
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Алгоритмы сортировки\obj\Debug\net6.0\Алгоритмы сортировки.genruntimeconfig.cache
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Алгоритмы сортировки\obj\Debug\net6.0\ref\Алгоритмы сортировки.dll
